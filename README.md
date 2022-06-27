@@ -6,7 +6,7 @@ It is modified for attention words extraction.
 * Moses for tokenization
 * Subword NMT for BPE pre-processing
 * [My fork of Fairseq](https://github.com/tangashley/fairseq)
-* Pytorch
+* Other required packages are in ``environment.yml``.
 ### Run experiment (IWSLT'17 Fr-En with Transformer)
 
 * Download [IWSLT'17 fr-en dataset](https://wit3.fbk.eu/2017-01-c). 
