@@ -1,6 +1,6 @@
 # Learning by Interpreting (Part 1: Neural Machine Translation)
 We uses [Fairseq](https://github.com/facebookresearch/fairseq) for the NMT experiments. 
-We modified the package for attention words extraction.
+It is modified for attention words extraction.
 
 ### Required Packages
 * Moses for tokenization
