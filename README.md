@@ -5,7 +5,7 @@ It is modified for attention words extraction.
 ### Required Packages
 * Moses for tokenization
 * Subword NMT for BPE pre-processing
-* [My fork of Fairseq](https://github.com/tangashley/learning_by_interpreting_NMT.git)
+* [My fork of Fairseq](https://github.com/tangashley/fairseq)
 * Pytorch
 ### Run experiment (IWSLT'17 Fr-En with Transformer)
 
